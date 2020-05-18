@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>br.com.currency.config.server</groupId>
-	<artifactId>currency-config-server</artifactId>
+	<groupId>com.in28minutes.microservices</groupId>
+	<artifactId>spring-cloud-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>currency-config-server</name>
+	<name>spring-cloud-config-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

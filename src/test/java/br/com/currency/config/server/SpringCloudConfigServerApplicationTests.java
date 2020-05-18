@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.springcloudconfigserver;
+package br.com.currency.config.server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

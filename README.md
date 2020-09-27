@@ -4,15 +4,15 @@ An Configuration Main Server for central management for configuration via GIT, S
 
 ## Reference Documentation
 
-### Provider Server
+### Configuration Server
 
--   currency-exchange-service
+-   currency-config-server
 
 ### Description
 
-> **ecommerce-config-server**
+> **currencu-config-server**
 
-Microservice responsible for management properties configuration via:
+Configuration Server responsible for management properties configuration via:
 
  - Git;
  - SVN;

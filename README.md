@@ -1,6 +1,6 @@
 # Currency Config Server
 
-An Configuration Main Server for central management for configuration via GIT, SVN or HashiCorp Vault with Java 8, Spring Cloud Finchley M8, Spring Cloud Config Server and Spring Cloud Starter Bus 
+An Configuration Main Server for central management for configuration via GIT, SVN or HashiCorp Vault with Java 8, Spring Cloud Finchley M8, Spring Cloud Config Server and Spring Cloud Starter Bus, JUnit 4
 
 ## Reference Documentation
 

@@ -10,7 +10,7 @@ An Configuration Main Server for central management for configuration with GIT, 
 
 ### Description
 
-> **currencu-config-server**
+> **currency-config-server**
 
 Configuration Server responsible for management properties configuration:
 
